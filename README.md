@@ -1,4 +1,4 @@
-# Creating and Inserting DOM Nodes
+<!-- # Creating and Inserting DOM Nodes
 
 ## Learning Goals
 
@@ -8,7 +8,7 @@
 4. Change properties on DOM nodes
 5. Remove elements from the DOM
 
-## Introduction
+## Introduction -->
 
 In this lab, you will be inserting, altering, and removing DOM nodes. You will
 do the following:
